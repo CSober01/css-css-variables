@@ -31,11 +31,12 @@
 }
 
 .introduction {
-  color: var(--Secondary-Color);
+  background-color: var(--Secondary-Color);
   padding:var(--padding-leval-5);
 }
 
 .introduction h1{
-  color: var(--Branding-Color);
-  font-size: var(--font-size-Triple-Extra-Large);
+  
+   color: var(--Branding-Color);
+   font-size: var(--font-size-Triple-Extra-Large);
 }
